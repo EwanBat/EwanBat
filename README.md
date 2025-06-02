@@ -1,8 +1,8 @@
 # 👋 Hi, my name is Ewan BATAILLE
 
 🎓 Master’s student in **Fundamental Physics** at *Université Paris-Saclay*  
-💻 Interested in **numerical simulation**, **numerical calculation** in physics*
-🔭 Soon diving into **plasma physics**, **astrophysics**, and **fusion**
+💻 Interested in **numerical simulation**, **numerical calculation** in physics*  
+🔭 Soon diving into **plasma physics**, **astrophysics**, and **fusion**  
 ✉️ You can contact me at [ewan.bataille@universite-paris-saclay.fr]
 
 ---
