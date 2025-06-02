@@ -1,19 +1,13 @@
-# My name is Ewan BATAILLE
+# 👋 Hi, my name is Ewan BATAILLE
 
-🎓 I'm a first-year Master's student in **Fundamental Physics** at *Université Paris-Saclay*  
-💻 I code mainly in **Python**, **C++**, and **LaTeX**  
-🌱 I plan to share both small personal projects and larger group projects here soon
-
----
-
-## 🧠 About Me
-
-- 🚀 Next year, I’ll be focusing on **plasma physics**, **astrophysics**, and **fusion physics**
-- 🌍 Based in the Paris area, France
+🎓 Master’s student in **Fundamental Physics** at *Université Paris-Saclay*  
+💻 Interested in **numerical simulation**, **numerical calculation** in physics
+🔭 Soon diving into **plasma physics**, **astrophysics**, and **fusion**
+✉️ You can contact me at [ewan.bataille@universite-paris-saclay.fr]
 
 ---
 
-## 🛠️ Languages I Use
+## 🛠️ Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -23,33 +17,4 @@
 
 ---
 
-## 🚧 Projects (Coming Soon)
-
-### 🐍 Python Projects
-> Small personal tools, simulations, and experiments  
-To be added soon...
-
-- `📂 Project Name` – Short description *(coming soon)*
-
-### 🧠 C++ Group Projects
-> Collaborative academic projects from university coursework  
-To be added soon...
-
-- `📂 Project Name` – Short description *(coming soon)*
-
----
-
-## 📬 How to Reach Me
-
-- ✉️ Email: [ewan.bataille@universite-paris-saclay.fr]
-- 💼 LinkedIn: [Your LinkedIn Profile] *(optional)*
-
----
-
-## 📈 GitHub Stats (Optional)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
-
----
-
-Thanks for stopping by! 🚀
+Thanks for visiting! 🚀
