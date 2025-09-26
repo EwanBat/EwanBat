@@ -1,4 +1,4 @@
-My name is Ewan BATAILLE
+## My name is Ewan BATAILLE
 
 -Master’s student in **Plasma Physics** at *Université Paris-Saclay*  
 -Interested in **computation** and **simulation** of physics equations  
@@ -7,7 +7,7 @@ My name is Ewan BATAILLE
 
 ---
 
-## 🛠️ Languages
+## Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
