@@ -1,9 +1,9 @@
-# 👋 Hi, my name is Ewan BATAILLE
+My name is Ewan BATAILLE
 
-🎓 Master’s student in **Plasma Physics** at *Université Paris-Saclay*  
-💻 Interested in **computation** and **simulation** of physics equations  
-🔭 Soon diving into **plasma physics**, **astrophysics**, and **fusion**  
-✉️ You can contact me at [ewan.bataille@universite-paris-saclay.fr]
+-Master’s student in **Plasma Physics** at *Université Paris-Saclay*  
+-Interested in **computation** and **simulation** of physics equations  
+-Soon diving into **plasma physics**, **astrophysics**, and **fusion**  
+-You can contact me at [ewan.bataille@universite-paris-saclay.fr]
 
 ---
 
