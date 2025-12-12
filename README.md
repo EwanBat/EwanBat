@@ -1,8 +1,8 @@
 ## My name is Ewan BATAILLE
 
--Master’s student in **Plasma Physics** at *Université Paris-Saclay*  
+-M2 student in **Plasma Physics and Fusion** at *Université Paris-Saclay*  
 -Interested in **computation** and **simulation** of physics equations  
--Soon diving into **plasma physics**, **astrophysics**, and **fusion**  
+-Soon diving into **astrophysics**, **solar wind**, and **turbulence**  
 -You can contact me at [ewan.bataille@universite-paris-saclay.fr]
 
 ---
